@@ -1,0 +1,82 @@
+body {
+    background-image: url("bg5.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    width:150px; 
+    height:150px;
+}
+
+.self-portfolio {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.displayed-name a {
+    font-family: Arial;
+    text-decoration: none;
+}
+
+.displayed-name a:hover {
+    border: 2px solid #333;
+    background-color: seagreen;
+    border-radius: 8px;
+}
+
+.self-introduction{
+     font-family: Arial, sans-serif;
+    text-align: left;
+}
+
+.educational-background{
+     font-family: Arial, sans-serif;
+    text-align: left;
+} 
+.expertise{
+     font-family: Arial, sans-serif;
+    text-align: left;
+}
+.background-it{
+     font-family: Arial, sans-serif;
+    text-align: left;
+}
+.applications, {
+    font-family: Arial, sans-serif;
+    text-align: left;
+}
+li{
+    font-family: Arial, sans-serif;
+}
+p{
+    font-family: Arial, sans-serif;
+}
+h3{
+    font-family: Arial, sans-serif;
+}
+h4{
+    font-family: Arial, sans-serif;
+}
+
+ul {
+    list-style-type: square;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial;
+}
+
+th, td {
+    border: 1px solid #333;
+    text-align: left;
+    padding: 8px;
+}
+
+
